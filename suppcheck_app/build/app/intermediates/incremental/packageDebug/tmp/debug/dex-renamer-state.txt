@@ -1,0 +1,4 @@
+#Mon Sep 14 16:59:14 PDT 2020
+base.0=E\:\\SuppCheck\\supp_check\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
